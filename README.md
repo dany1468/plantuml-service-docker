@@ -1,9 +1,5 @@
 # PlantUML server
 
-PlantUML serverのDocker Image.
-
-デプロイするために `PORT` 環境変数でポートを指定できるように公式イメージをカスタマイズしている。
-
 ## GCP
 
 Clound Runにデプロイする方法。
